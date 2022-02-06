@@ -12,5 +12,5 @@ The first major thing I want to get out of this study abroad is experiencing and
 
 ## Feedback
 
-Once you commit and push your work to Github, I'll update this section with feedback.
+Lots of interesting observations you've made.  I'm glad you're getting out and experiencing so much just over the first couple weeks!
 
